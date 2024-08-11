@@ -20,7 +20,7 @@ cd WARP_Plus_Generator
 ```
 3. Install the requirements:
 ```sh
-python -m pip install customtkinter datetime
+python -m pip install -r requirements.txt
 ```
 4. Run the script:
 ```sh
